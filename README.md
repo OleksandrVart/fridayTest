@@ -1,6 +1,17 @@
 # php skelleton
 Skelleton for write high quality php application
 
+# Factory line manager
+[![Travis][build-badge]][build]
+[![Coveralls][coveralls-badge]][coveralls]
+
+Awesome factory line manager!
+
+[build-badge]: https://img.shields.io/travis/OleksandrVart/fridayTest/master.png?style=flat-square
+[build]: https://travis-ci.org/OleksandrVart/fridayTest
+
+[coveralls-badge]: https://img.shields.io/coveralls/OleksandrVart/fridayTest/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/OleksandrVart/fridayTest
 ![Build Status](https://github.com/OleksandrVart/fridayTest/workflows/CI/badge.svg)
 
 ## Local work
