@@ -2,6 +2,7 @@
 Skelleton for write high quality php application
 
 # Factory line manager
+![GitHub CI](https://github.com/OleksandrVart/fridayTest/workflows/CI/badge.svg)
 [![Travis][build-badge]][build]
 [![Coveralls][coveralls-badge]][coveralls]
 
