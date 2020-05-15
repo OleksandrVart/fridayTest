@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1589550365">
+  <project timestamp="1589550365">
+    <package name="OleksandrVart\fridayTest">
+      <file name="/application/src/JoinedString.php">
+        <class name="OleksandrVart\fridayTest\JoinedString" namespace="OleksandrVart\fridayTest">
+          <metrics complexity="3" methods="3" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="3" elements="7" coveredelements="5"/>
+        </class>
+        <line num="10" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="12" type="stmt" count="1"/>
+        <line num="13" type="stmt" count="1"/>
+        <line num="15" type="method" name="__toString" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="17" type="stmt" count="0"/>
+        <line num="20" type="method" name="show" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="22" type="stmt" count="1"/>
+        <metrics loc="24" ncloc="24" classes="1" methods="3" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="3" elements="7" coveredelements="5"/>
+      </file>
+    </package>
+    <package name="Otis22\PhpSkelleton">
+      <file name="/application/src/Test.php">
+        <class name="Otis22\PhpSkelleton\Test" namespace="Otis22\PhpSkelleton">
+          <metrics complexity="2" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
+        </class>
+        <line num="10" type="method" name="one" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="12" type="stmt" count="0"/>
+        <line num="14" type="method" name="two" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="16" type="stmt" count="0"/>
+        <metrics loc="18" ncloc="18" classes="1" methods="2" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="4" coveredelements="0"/>
+      </file>
+    </package>
+    <metrics files="2" loc="42" ncloc="42" classes="2" methods="5" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="6" coveredstatements="3" elements="11" coveredelements="5"/>
+  </project>
+</coverage>
